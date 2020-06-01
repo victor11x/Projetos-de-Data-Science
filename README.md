@@ -1,3 +1,3 @@
 # Projetos-de-Data-Science
 
-Aqui esta todos meus projetos como cientista de dados.
+Aqui  voce vai encontra todos meus projetos como cientista de dados
